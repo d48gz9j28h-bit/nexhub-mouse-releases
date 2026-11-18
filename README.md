@@ -2,16 +2,18 @@
 
 macOS 图片与文字工具。支持 Apple 芯片 Mac（M1 及更新机型），macOS 14 或以上版本；暂不支持 Intel 芯片 Mac。
 
+当前版本：**v1.00**
+
 ## 下载与安装
 
 1. 下载 [Nexhub Mouse installer.dmg](https://github.com/d48gz9j28h-bit/nexhub-mouse-releases/releases/latest/download/Nexhub.Mouse.installer.dmg) 安装文件。
 2. 双击打开，将 NexHub Mouse 图标拖入“把我拖进这里”文件夹，等待复制完成。
-3. 推出安装镜像，从 Mac“应用程序”中打开 NexHub Mouse。
+3. 推出安装镜像，从 Mac“应用程序”中打开 NexHub Mouse。首次打开会进入使用说明，后续启动不重复显示。
 4. 本应用尚未完成 Apple 公证。如系统阻止打开，请按“系统设置 → 隐私与安全性”中的系统提示操作；受组织管理的设备请联系 IT 管理员。
 5. 在“设置 → 通用”中按需开启屏幕录制和辅助功能权限，按系统要求重新打开应用。
 6. 在“设置 → AI 服务”中配置所用服务。AI 服务调用可能产生费用，具体以服务提供方的计费规则为准。
 
-[下载完整安装说明（TXT）](https://github.com/d48gz9j28h-bit/nexhub-mouse-releases/releases/download/v0.14.94-build186/INSTALL.txt)
+[下载完整安装说明（TXT）](https://github.com/d48gz9j28h-bit/nexhub-mouse-releases/releases/latest/download/INSTALL.txt)
 
 ## 软件更新
 
